@@ -68,4 +68,4 @@ so when you open Jupyter, you can now select `Eddy` as the kernel.
 
 ## Running a detection
 
-A full (and working) example is available in the notebook [src/detect_eddy_medsea.ipynb](detect_eddy_medsea).
+A full (and working) example is available in the notebook [detect_eddy_medsea](src/detect_eddy_medsea.ipynb).
